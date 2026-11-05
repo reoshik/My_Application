@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApplication</string>
+
+    <string name="save">Сохранить</string>
+    <string name="nameHint">Имя</string>
+    <string name="stateHint">Статус</string>
+    <string name="ageHint">Возраст</string>
+
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="back_to_list">Назад</string>
+
+    <string name="users_title">Пользователи</string>
+    <string name="profile_title">Профиль пользователя</string>
+    <string name="edit_title">Редактирование профиля</string>
+
+</resources>

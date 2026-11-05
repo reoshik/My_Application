@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_main">#7655A6</color>
+    <color name="purple_light">#E9E1F5</color>
+    <color name="purple_background">#F5F2FA</color>
+    <color name="purple_dark">#51406F</color>
+
+    <color name="text_main">#292333</color>
+    <color name="text_secondary">#77717F</color>
+
+    <color name="status_online">#62B879</color>
+    <color name="status_offline">#A5A0AA</color>
+    <color name="status_away">#E6B65C</color>
+
+</resources>
